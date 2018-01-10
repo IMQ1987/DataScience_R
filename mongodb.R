@@ -1,3 +1,4 @@
+#https://gist.github.com/Btibert3/7751989
 library(devtools)
 install_github(repo = "mongosoup/rmongodb")
 library(rmongodb)
@@ -10,3 +11,5 @@ mongo.get.databases(mongo)
 
 mongo.get.database.collections(mongo, db = "test")
 
+db<- mongo.get.databases(mongo)
+db[2]
