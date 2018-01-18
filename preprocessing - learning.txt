@@ -1,0 +1,4 @@
+https://de.wikipedia.org/wiki/Imputation_(Statistik)
+https://en.wikipedia.org/wiki/Winsorizing
+https://en.wikipedia.org/wiki/Power_transform
+https://en.wikipedia.org/wiki/Data_binning
